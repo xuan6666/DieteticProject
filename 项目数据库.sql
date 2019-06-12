@@ -2,12 +2,16 @@ create database OnlineOrderDB
 go
 use OnlineOrderDB
 go
---用户表(User)
-create table [User]
+create table UserLogin
 (
-  Id int identity primary key,--用户编号
-  Name varchar(20),--用户姓名
-  Pwd varchar(16)--用户密码
+	Id int primary key identity,
+	Name varchar(50),		--真实姓名
+	UserName	varchar(50),--登录账户
+	Pwd varchar(50),	--登录密码
+	Sex bit,	--用户性别
+	Age int,	--用户年龄
+	Address	varchar(50),--地址
+	Chooser int,   --权限   管理员   用户
 )
 go
 --菜品类型表(FoodType)
