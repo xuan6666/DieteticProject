@@ -1,0 +1,15 @@
+D:\HomeInnNew\HomeInn.Log\bin\Debug\HomeInn.Log.dll
+D:\HomeInnNew\HomeInn.Log\bin\Debug\HomeInn.Log.pdb
+D:\HomeInnNew\HomeInn.Log\bin\Debug\log4net.dll
+D:\HomeInnNew\HomeInn.Log\obj\Debug\HomeInn.Log.csproj.CoreCompileInputs.cache
+D:\HomeInnNew\HomeInn.Log\obj\Debug\HomeInn.Log.csproj.CopyComplete
+D:\HomeInnNew\HomeInn.Log\obj\Debug\HomeInn.Log.dll
+D:\HomeInnNew\HomeInn.Log\obj\Debug\HomeInn.Log.pdb
+D:\HomeInnNew\HomeInn.Log\obj\Debug\HomeInn.Log.csprojAssemblyReference.cache
+F:\RW\HomeInnNew\HomeInn.Log\bin\Debug\HomeInn.Log.dll
+F:\RW\HomeInnNew\HomeInn.Log\bin\Debug\HomeInn.Log.pdb
+F:\RW\HomeInnNew\HomeInn.Log\obj\Debug\HomeInn.Log.csprojAssemblyReference.cache
+F:\RW\HomeInnNew\HomeInn.Log\obj\Debug\HomeInn.Log.csproj.CoreCompileInputs.cache
+F:\RW\HomeInnNew\HomeInn.Log\obj\Debug\HomeInn.Log.csproj.CopyComplete
+F:\RW\HomeInnNew\HomeInn.Log\obj\Debug\HomeInn.Log.dll
+F:\RW\HomeInnNew\HomeInn.Log\obj\Debug\HomeInn.Log.pdb

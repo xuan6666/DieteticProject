@@ -1,0 +1,13 @@
+D:\资料总结\C#技能\项目\Catering\WebApi.OnlineOrdering\Log4\bin\Debug\ExamSystem.Log.dll
+D:\资料总结\C#技能\项目\Catering\WebApi.OnlineOrdering\Log4\bin\Debug\ExamSystem.Log.pdb
+D:\资料总结\C#技能\项目\Catering\WebApi.OnlineOrdering\Log4\obj\Debug\Log4.csproj.CoreCompileInputs.cache
+D:\资料总结\C#技能\项目\Catering\WebApi.OnlineOrdering\Log4\obj\Debug\Log4.csproj.CopyComplete
+D:\资料总结\C#技能\项目\Catering\WebApi.OnlineOrdering\Log4\obj\Debug\ExamSystem.Log.dll
+D:\资料总结\C#技能\项目\Catering\WebApi.OnlineOrdering\Log4\obj\Debug\ExamSystem.Log.pdb
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\Log4\bin\Debug\ExamSystem.Log.dll
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\Log4\bin\Debug\ExamSystem.Log.pdb
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\Log4\obj\Debug\Log4.csprojAssemblyReference.cache
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\Log4\obj\Debug\Log4.csproj.CoreCompileInputs.cache
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\Log4\obj\Debug\Log4.csproj.CopyComplete
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\Log4\obj\Debug\ExamSystem.Log.dll
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\Log4\obj\Debug\ExamSystem.Log.pdb

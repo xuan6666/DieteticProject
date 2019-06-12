@@ -1,0 +1,14 @@
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\bin\Debug\BLL.dll
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\bin\Debug\BLL.pdb
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\bin\Debug\DAL.dll
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\bin\Debug\Model.dll
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\bin\Debug\DAL.pdb
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\bin\Debug\Model.pdb
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\obj\Debug\BLL.dll
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\obj\Debug\BLL.pdb
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\bin\Debug\ExamSystem.Log.dll
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\bin\Debug\log4net.dll
+D:\资料总结\C#技能\项目\Order project\WebApi.OnlineOrder\BLL\bin\Debug\ExamSystem.Log.pdb

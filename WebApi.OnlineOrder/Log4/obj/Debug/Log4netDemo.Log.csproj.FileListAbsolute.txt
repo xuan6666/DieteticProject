@@ -1,0 +1,7 @@
+D:\1610A\Log4netDemo\Log4netDemo.Log\bin\Debug\ExamSystem.Log.dll
+D:\1610A\Log4netDemo\Log4netDemo.Log\bin\Debug\ExamSystem.Log.pdb
+D:\1610A\Log4netDemo\Log4netDemo.Log\obj\Debug\Log4netDemo.Log.csprojAssemblyReference.cache
+D:\1610A\Log4netDemo\Log4netDemo.Log\obj\Debug\Log4netDemo.Log.csproj.CoreCompileInputs.cache
+D:\1610A\Log4netDemo\Log4netDemo.Log\obj\Debug\Log4netDemo.Log.csproj.CopyComplete
+D:\1610A\Log4netDemo\Log4netDemo.Log\obj\Debug\ExamSystem.Log.dll
+D:\1610A\Log4netDemo\Log4netDemo.Log\obj\Debug\ExamSystem.Log.pdb

@@ -1,0 +1,14 @@
+D:\CCDemo\ExamSystem\HomeInn.Log\obj\Debug\ExamSystem.Log.csprojAssemblyReference.cache
+D:\CCDemo\ExamSystem\HomeInn.Log\obj\Debug\ExamSystem.Log.csproj.CoreCompileInputs.cache
+D:\CCDemo\ExamSystem\HomeInn.Log\obj\Debug\ExamSystem.Log.csproj.CopyComplete
+D:\CCDemo\ExamSystem\HomeInn.Log\bin\Debug\ExamSystem.Log.dll
+D:\CCDemo\ExamSystem\HomeInn.Log\bin\Debug\ExamSystem.Log.pdb
+D:\CCDemo\ExamSystem\HomeInn.Log\obj\Debug\ExamSystem.Log.dll
+D:\CCDemo\ExamSystem\HomeInn.Log\obj\Debug\ExamSystem.Log.pdb
+D:\CCDemo\ExamSystem\ExamSystem.Log\bin\Debug\ExamSystem.Log.dll
+D:\CCDemo\ExamSystem\ExamSystem.Log\bin\Debug\ExamSystem.Log.pdb
+D:\CCDemo\ExamSystem\ExamSystem.Log\obj\Debug\ExamSystem.Log.csprojAssemblyReference.cache
+D:\CCDemo\ExamSystem\ExamSystem.Log\obj\Debug\ExamSystem.Log.csproj.CoreCompileInputs.cache
+D:\CCDemo\ExamSystem\ExamSystem.Log\obj\Debug\ExamSystem.Log.csproj.CopyComplete
+D:\CCDemo\ExamSystem\ExamSystem.Log\obj\Debug\ExamSystem.Log.dll
+D:\CCDemo\ExamSystem\ExamSystem.Log\obj\Debug\ExamSystem.Log.pdb
