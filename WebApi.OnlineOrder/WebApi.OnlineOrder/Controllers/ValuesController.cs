@@ -9,7 +9,7 @@ namespace WebApi.OnlineOrder.Controllers
 {
     public class ValuesController : ApiController
     {
-        // GET api/values
+        // GET api/valuesd
         public IEnumerable<string> Get()
         {
             return new string[] { "value1", "value2" };
